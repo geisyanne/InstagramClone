@@ -37,10 +37,13 @@ Etapas:
 ## Layout mobile
 
 Criando uma conta no servidor remoto 
+
 ![layoutmobile1](https://github.com/geisyanne/InstagramClone/blob/394259f844d8b285837b39c9473a67741b5c113c/for_readme_login.gif)  
 
 Fazendo um post
+
 ![layoutmobile1](https://github.com/geisyanne/InstagramClone/blob/394259f844d8b285837b39c9473a67741b5c113c/for_readme_post.gif)  
 
 Pesquisando e seguindo usuário
+
 ![layoutmobile1](https://github.com/geisyanne/InstagramClone/blob/394259f844d8b285837b39c9473a67741b5c113c/for_readme_following.gif)  
