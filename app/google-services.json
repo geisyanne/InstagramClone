@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156836056467",
+    "project_id": "instagram-kotlin-8c0ce",
+    "storage_bucket": "instagram-kotlin-8c0ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156836056467:android:0883f9454ff8ebb9526c66",
+        "android_client_info": {
+          "package_name": "co.geisyanne.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156836056467-qhql6rur77cn7c5sen7bf90di6qmlgn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwgOyLbkVnFHqFLVuCa-PR2y4jKk_WXVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156836056467-qhql6rur77cn7c5sen7bf90di6qmlgn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
